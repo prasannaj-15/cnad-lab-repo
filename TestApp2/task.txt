@@ -1,0 +1,81 @@
+
+
+REST - 
+
+
+// CRUD - crate retrieve update delete
+
+GET - 1  aditya delhi  male
+
+POST - create
+
+PUT/PATCH - update
+
+Delete - delete
+
+
+URL -www.google.com
+URI - www.google.com/USER
+URN - www.google.com/user/?"name" ="harry" && "city"="us"
+www.google.com/user/2
+-  
+
+http://abc.com/products
+
+
+
+USER
+id  name   city    gender profile_img
+1   aditya mumbai  male   img.jpg
+
+
+Company
+id  name   city    gender profile_img
+1   aditya mumbai  male   img.jpg
+
+
+
+
+
+
+Client ---------- Req ------- Server
+       ---------- Res -------- 
+
+
+
+http://abc.com/products/{apikey}
+
+Stateless - 
+
+session 1
+c1 ---------Res1(all info) ------ Server
+       ---------- Res -------- 
+
+
+session -2
+            ( new request )
+c1 ---------Res2(all info) ------ Server
+       ---------- Res -------- 
+
+
+
+{
+    "key" : "value",
+}
+
+
+
+GET - create a record
+
+
+
+
+
+
+
+
+
+
+
+
+
